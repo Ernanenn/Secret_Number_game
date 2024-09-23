@@ -1,23 +1,26 @@
-# Número Secreto
+# Secret Number
 
-Um jogo simples e divertido onde você tenta adivinhar um número secreto entre 1 e 100.
-Desenvolvido durante estudos na Alura.
+A simple and fun game where you try to guess a secret number between 1 and 100.
+Developed during studies at Alura.
 
-## Como Jogar
-1. Digite um número no campo de entrada.
-2. Clique em "Chutar".
-3. O jogo dirá se o número secreto é maior ou menor que o seu chute.
-4. Continue chutando até acertar!
+## How to Play
+1. Enter a number in the input field.
+2. Click "Guess".
+3. The game will tell you if the secret number is higher or lower than your guess.
+4. Keep guessing until you get it right!
 
-## Tecnologias Utilizadas
+## Technologies Used
 * HTML
 * CSS
 * JavaScript
 * responsivevoice.js
 
-## Contribuições
-Contribuições são bem-vindas! Para contribuir, por favor, siga estas etapas:
-1. Fork este repositório.
-2. Crie um novo branch para sua feature.
-3. Faça suas alterações e commit.
-4. Envie um pull request.
+## Contributions
+Contributions are welcome! To contribute, please follow these steps:
+1. Fork this repository.
+2. Create a new branch for your feature.
+3. Make your changes and commit.
+4. Submit a pull request.
+
+**Ernane Nunes**
+**ernanenn@gmail.com**
